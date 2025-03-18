@@ -1,4 +1,4 @@
-## Oi, eu sou o Gabriel!
+## Olá, meu nome é Gabriel, sou desenvolvedor python, com conhecimentos básicos em javascript, CSS e HTML
 <div align="center">
   <a href="https://github.com/gabriel-valenga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-valenga&layout=compact&langs_count=7&theme=dracula"/>
